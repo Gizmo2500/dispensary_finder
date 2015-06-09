@@ -1,0 +1,1 @@
+angular.module('dispensaryapp', ['ngRoute', 'appRoutes', 'MapCtrl', 'ListCtrl']);
